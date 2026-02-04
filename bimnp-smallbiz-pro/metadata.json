@@ -1,0 +1,9 @@
+{
+  "name": "BIMNP SmallBiz Pro",
+  "description": "The ultimate cashflow manager for small businesses with 1-5 branches. Real-time income/expense tracking, branch profitability analysis, and AI-powered burn rate monitoring.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation",
+    "microphone"
+  ]
+}
